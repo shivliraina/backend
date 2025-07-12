@@ -3,3 +3,5 @@ google-generativeai
 python-dotenv
 requests
 PyPDF2
+flask_cors
+supabase
